@@ -10,7 +10,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeykimmy&layout=compact&theme=calm)
 
-
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaeykimmy&show_icons=true&theme=calm" />
+</a>
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaeykimmy&layout=compact&theme=calm" />
 </a>
 <!--
 **jaeykimmy/jaeykimmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
