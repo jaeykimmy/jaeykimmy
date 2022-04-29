@@ -6,10 +6,6 @@
 - 💬 Ask me about my Rocket League rank
 - 📫 How to reach me: https://www.linkedin.com/in/jjykim/
 
-![Jaeyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeykimmy&show_icons=true&theme=calm)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeykimmy&layout=compact&theme=calm)
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaeykimmy&show_icons=true&theme=calm" />
 </a>
