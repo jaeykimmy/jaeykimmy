@@ -7,6 +7,8 @@
 - 📫 How to reach me: https://www.linkedin.com/in/jjykim/
 
 ![Jaeyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeykimmy&show_icons=true&theme=calm)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeykimmy&layout=compact&theme=calm)](https://github.com/jaeykimmy/github-readme-stats)
 <!--
 **jaeykimmy/jaeykimmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
