@@ -1,10 +1,13 @@
 ### Hi there 👋
-- 🔭 I’m currently working on making a unique personal portfolio
-- 🌱 I’m currently learning how to find strength from within
-- 👯 I’m looking to collaborate on large scale React projects
-- 🤔 I’m looking for help with centering divs
-- 💬 Ask me about my Rocket League rank
-- 📫 How to reach me: https://www.linkedin.com/in/jjykim/
+
+#### I'm a back to back Fantasy Baseball Champion, 2x Fantasy Football Champion, 1x Fantasy Basketball Champion and I also code
+
+🌱 I’m currently learning how to find strength from within
+👯 I’m looking to collaborate on large scale React projects
+🤔 I’m looking for help with centering divs
+💬 Ask me about my Rocket League rank
+⚡ Fun fact: I'm an advanced statistics sports nut and a competitive Pokemon player
+📫 How to reach me: https://www.linkedin.com/in/jjykim/
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaeykimmy&show_icons=true&theme=calm" />
