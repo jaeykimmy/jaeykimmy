@@ -9,6 +9,11 @@
 * ⚡ Fun fact: I'm an advanced statistics sports nut and a competitive Pokemon player
 * 📫 How to reach me: https://www.linkedin.com/in/jjykim/
 
+### Tech Stacks
+<img src="https://cdn.worldvectorlogo.com/logos/javascript.svg" alt="JavaScript Logo" width="50" height="50"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>
+
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaeykimmy&show_icons=true&theme=calm" />
 </a>
