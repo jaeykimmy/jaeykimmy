@@ -1,5 +1,10 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on making a unique personal portfolio
+- 🌱 I’m currently learning how to find strength from within
+- 👯 I’m looking to collaborate on large scale React projects
+- 🤔 I’m looking for help with centering divs
+- 💬 Ask me about my Rocket League rank
+- 📫 How to reach me: https://www.linkedin.com/in/jjykim/
 <!--
 **jaeykimmy/jaeykimmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
