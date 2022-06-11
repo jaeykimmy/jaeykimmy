@@ -2,12 +2,12 @@
 
 #### I'm a back to back Fantasy Baseball Champion, 2x Fantasy Football Champion, 1x Fantasy Basketball Champion and I also code
 
-* 🌱 I’m currently learning how to find strength from within
-* 👯 I’m looking to collaborate on large scale React projects
+* 👯 I’m looking to collaborate on medium-large scale React projects
 * 🤔 I’m looking for help with centering divs
 * 💬 Ask me about my Rocket League rank
 * ⚡ Fun fact: I'm an advanced statistics sports nut and a competitive Pokemon player
 * 📫 How to reach me: https://www.linkedin.com/in/jjykim/
+* Portfolio: https://jaeykimmy.github.io/personal-portfolio/
 
 ### Tech Stacks
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS Logo" width="50" height="50"/>
