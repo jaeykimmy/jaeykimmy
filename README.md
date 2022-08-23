@@ -1,9 +1,7 @@
-### Hi there 👋
+### Hey 👋
 
 #### I'm a back to back Fantasy Baseball Champion, 2x Fantasy Football Champion, 1x Fantasy Basketball Champion and I also code
 
-* 👯 I’m looking to collaborate on medium-large scale React projects
-* 🤔 I’m looking for help with centering divs
 * 💬 Ask me about my Rocket League rank
 * ⚡ Fun fact: I'm an advanced statistics sports nut and a competitive Pokemon player
 * 📫 How to reach me: https://www.linkedin.com/in/jjykim/
