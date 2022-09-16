@@ -1,9 +1,21 @@
 ### Hey 👋
 
 #### I'm a back to back Fantasy Baseball Champion, 2x Fantasy Football Champion, 1x Fantasy Basketball Champion and I also code
+## Projects I've Made:
+* [Pokemon Card App](https://jaeykimmy.github.io/pokemontcg/)<br />
+Find prices, images, and buy links for your next Pokemon card transaction
+* [Daily Horoscope App](https://jaeykimmy.github.io/horoscope/)<br />
+Find out what's in the stars for you today, yesterday, or tomorrow
+* [High Rated Place Finder](https://jaeykimmy-makes-great-sites.netlify.app/)<br/>
+Find new places to explore that are rated highly for your convenience
+## Hackathons:
+* [SimpleMint](https://devpost.com/software/nft-creator)<br/>
+An innovative NFT minting applications with no gas fees. Award-winning project.
+* [BikeSafe]
+## 📫 How to reach me: 
+* [LinkedIn](https://www.linkedin.com/in/jjykim/)
+* <a href ="https://jaeykimmy.github.io/personal-portfolio/">Portfolio</a>
 
-* 📫 How to reach me: https://www.linkedin.com/in/jjykim/
-* Portfolio: https://jaeykimmy.github.io/personal-portfolio/
 
 ### Tech Stacks
 
@@ -21,15 +33,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="CSS Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" alt="CSS Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="CSS Logo" width="50" height="50"/>
-
-
-
-
-
-
-
-
-
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
