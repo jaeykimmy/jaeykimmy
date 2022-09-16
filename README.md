@@ -6,9 +6,7 @@
 * Portfolio: https://jaeykimmy.github.io/personal-portfolio/
 
 ### Tech Stacks
-<div style="display: block;
-  margin-left: auto;
-  margin-right: auto;">
+<div style="margin: auto">
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="JavaScript Logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="CSS Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="CSS Logo" width="50" height="50"/>
