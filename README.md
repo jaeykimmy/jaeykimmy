@@ -12,6 +12,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="CSS Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="CSS Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg" alt="CSS Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" alt="JavaScript Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="CSS Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="CSS Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="CSS Logo" width="50" height="50"/>
@@ -19,6 +20,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-original.svg" alt="CSS Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" alt="CSS Logo" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mocha/mocha-plain.svg" alt="CSS Logo" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="CSS Logo" width="50" height="50"/>
+
 
 
 
