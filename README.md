@@ -11,7 +11,8 @@ Find new places to explore that are rated highly for your convenience
 ## Hackathons:
 * [SimpleMint](https://devpost.com/software/nft-creator)<br/>
 An innovative NFT minting applications with no gas fees. Award-winning project.
-* [BikeSafe]
+* [BikeSafe](https://www.canva.com/design/DAFL7T4GxYE/2e1_i1d1ycOOdOXxorqejQ/view?utm_content=DAFL7T4GxYE&utm_campaign=designshare&utm_medium=link&utm_source=recording_view)<br/>
+A transit solution for bike delivery drivers by sending customers an automated message when food is late and giving the courier access to a map of bike-safe roads
 ## 📫 How to reach me: 
 * [LinkedIn](https://www.linkedin.com/in/jjykim/)
 * <a href ="https://jaeykimmy.github.io/personal-portfolio/">Portfolio</a>
