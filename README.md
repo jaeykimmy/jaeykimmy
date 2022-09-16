@@ -2,8 +2,6 @@
 
 #### I'm a back to back Fantasy Baseball Champion, 2x Fantasy Football Champion, 1x Fantasy Basketball Champion and I also code
 
-* 💬 Ask me about my Rocket League rank
-* ⚡ Fun fact: I'm an advanced statistics sports nut and a competitive Pokemon player
 * 📫 How to reach me: https://www.linkedin.com/in/jjykim/
 * Portfolio: https://jaeykimmy.github.io/personal-portfolio/
 
