@@ -14,7 +14,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="CSS Logo" width="50" height="50"/>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jaeykimmy&show_icons=true&theme=calm" />
+  <img align="left" style="width: 300px" src="https://github-readme-stats.vercel.app/api?username=jaeykimmy&show_icons=true&theme=calm" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaeykimmy&layout=compact&theme=calm" />
