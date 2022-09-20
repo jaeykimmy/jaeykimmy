@@ -1,4 +1,4 @@
-### Hey 👋
+### Hello 👋
 
 #### I'm a back to back Fantasy Baseball Champion, 2x Fantasy Football Champion, 1x Fantasy Basketball Champion and I also code
 ## Projects I've Made:
