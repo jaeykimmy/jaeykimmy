@@ -36,15 +36,6 @@ A transit solution for bike delivery drivers by sending customers an automated m
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="CSS Logo" width="50" height="50"/>
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" style="width: 400px; height: 160px" src="https://github-readme-stats.vercel.app/api?username=jaeykimmy&show_icons=true&theme=dark" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" style="width: 400px; height: 160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaeykimmy&layout=compact&theme=dark" />
-</a>
-
-
-
 <!--
 **jaeykimmy/jaeykimmy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
